@@ -1,5 +1,5 @@
 {
-  "name": "@futpib/dagre",
+  "name": "dagre",
   "version": "0.8.5-pre1",
   "description": "Graph layout for JavaScript",
   "author": "Chris Pettitt <cpettitt@gmail.com>",
